@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parkshedIntern/static/css/main.34de6062.chunk.css",
+    "main.js": "/parkshedIntern/static/js/main.7b1e7da7.chunk.js",
+    "main.js.map": "/parkshedIntern/static/js/main.7b1e7da7.chunk.js.map",
+    "runtime~main.js": "/parkshedIntern/static/js/runtime~main.b4252280.js",
+    "runtime~main.js.map": "/parkshedIntern/static/js/runtime~main.b4252280.js.map",
+    "static/js/2.531a5b96.chunk.js": "/parkshedIntern/static/js/2.531a5b96.chunk.js",
+    "static/js/2.531a5b96.chunk.js.map": "/parkshedIntern/static/js/2.531a5b96.chunk.js.map",
+    "index.html": "/parkshedIntern/index.html",
+    "precache-manifest.630e69dd617cd5ab719307d1ebc3248a.js": "/parkshedIntern/precache-manifest.630e69dd617cd5ab719307d1ebc3248a.js",
+    "service-worker.js": "/parkshedIntern/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/parkshedIntern/static/css/main.34de6062.chunk.css.map",
+    "static/media/cloudy.png": "/parkshedIntern/static/media/cloudy.4f4a46e7.png"
+  }
+}
